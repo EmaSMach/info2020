@@ -1,4 +1,4 @@
-# Realizar un programa que sea capaz de, habiéndose ingresado dos números m y n, determine si n es divisor de m.
+# Desafío 4: Realizar un programa que sea capaz de, habiéndose ingresado dos números m y n, determine si n es divisor de m.
 
 
 num1 = int(input("Primer número: "))

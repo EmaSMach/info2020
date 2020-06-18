@@ -1,4 +1,4 @@
-## Solicite al usuario el ingreso de 3 números, e imprímalos de mayor a menor.
+## Desafío 1: Solicite al usuario el ingreso de 3 números, e imprímalos de mayor a menor.
 
 
 # numbers = []
