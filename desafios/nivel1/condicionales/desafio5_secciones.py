@@ -26,8 +26,8 @@ ubicacion_barrio = input("Respuesta: ") # acá ingresa 1 o 2
 
 # empiezo a comparar
 # si primera letra del barrio     es menor a la m      y  es céntrico           o
-if letras.index(nombre_barrio[0]) < letras.index("m") and ubicacion_barrio == 1 or \
-   letras.index(nombre_barrio[0]) > letras.index("m") and ubicacion_barrio == 2:
+if letras.index(nombre_barrio[0]) < letras.index("m") and ubicacion_barrio == "1" or \
+   letras.index(nombre_barrio[0]) > letras.index("m") and ubicacion_barrio == "2":
    # si la primera letra del barrio es mayor a la m    y  no es céntrico
    # -----------------------
    # la seccion del barrio es A
