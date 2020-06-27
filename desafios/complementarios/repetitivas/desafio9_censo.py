@@ -60,8 +60,8 @@ for person in personas.values():
 
 total_personas = len(personas)
 print("Total: ", total_personas, "personas")
-print(f"Estudios Primarios: {primarias} personas , {100*primarias/total_personas}")
-print(f"Estudios Secundarios: {secundarias} personas , {100*secundarias/total_personas}")
-print(f"Estudios Terciarios: {terciarias} personas , {100*terciarias/total_personas}")
-print(f"Estudios Profesionales: {profesionales} personas , {100*profesionales/total_personas}")
-print(f"Estudios Universitarios: {universitarios} personas , {100*universitarios/total_personas}")
+print(f"Estudios Primarios: {primarias} personas , {100*primarias/total_personas} %")
+print(f"Estudios Secundarios: {secundarias} personas , {100*secundarias/total_personas} %")
+print(f"Estudios Terciarios: {terciarias} personas , {100*terciarias/total_personas} %")
+print(f"Estudios Profesionales: {profesionales} personas , {100*profesionales/total_personas} %")
+print(f"Estudios Universitarios: {universitarios} personas , {100*universitarios/total_personas} %")
